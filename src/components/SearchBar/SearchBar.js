@@ -15,6 +15,7 @@ const SearchBar = (props) => {
         <input
           type="text"
           placeholder="Search"
+          onChange={props.hold}
         />
       </form>
       <div className="social-wrapper">

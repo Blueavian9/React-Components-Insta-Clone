@@ -54,6 +54,69 @@ const dummyData = [
             },
         ],
     },
+    {
+        id: 3,
+        username: "dragon_kid",
+        thumbnailUrl: 'https://icon2.cleanpng.com/20180320/sqe/kisspng-twitch-computer-icons-streaming-media-youtube-live-tv-twitch-icon-5ab19172461392.001176751521586546287.jpg',
+        imageUrl: 'https://img1.hulu.com/user/v3/artwork/6c1ab43c-c550-4e80-a299-e788f0a3d980?base_image_bucket_name=image_manager&base_image=e99f4294-182d-49f7-bc5c-93020f518834&region=US&format=jpeg&size=952x536',
+        likes: 0,
+        timestamp: "July 15th 2017, 03:12:09 pm",
+        comments: [
+            {
+                id: 40,
+                username: "cat",
+                text: "Is that Vegat!",
+            },
+            {
+                id: 41,
+                username: "dog",
+                text: "I want to be a super saiyan",
+            },
+            {
+                id: 42,
+                username: "zebra",
+                text: "do zebras get to be super",
+            },
+            {
+                id: 43,
+                username: "racoon",
+                text: "Is that a racoon?",
+            },
+        ],
+    },
+    {
+        id: 4,
+        username: "morty",
+        thumbnailUrl: 'https://icon2.cleanpng.com/20180320/sqe/kisspng-twitch-computer-icons-streaming-media-youtube-live-tv-twitch-icon-5ab19172461392.001176751521586546287.jpg',
+        imageUrl: 'https://programminginsider.com/wp-content/uploads/2020/05/rickmorty.jpg',
+        likes: 303,
+        timestamp: "July 15th 2017, 03:12:09 pm",
+        comments: [
+            {
+                id: 44,
+                username: "morty",
+                text: "What channel should I watch it at?",
+            },
+            {
+                id: 45,
+                username: "rick",
+                text: "When is this on?",
+            },
+            {
+                id: 46,
+                username: "alien",
+                text: "I feel like morty",
+            },
+            {
+                id: 47,
+                username: "bird_man",
+                text: "I like this show!",
+            },
+        ],
+    },
 ];
 
 export default dummyData;
+
+
+
